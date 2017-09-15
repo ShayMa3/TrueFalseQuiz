@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">True False Quiz</string>
+    <string name="text_false">false</string>
+    <string name="text_true">True</string>
+    <string name="next"><![CDATA[-->]]></string>
+    <string name="evan_question">Evan Chee is cool.</string>
+    <string name="cat_question">Cats are dogs</string>
+    <string name="shorr_question">Mr. Shorr has the best beard in the world.</string>
+    <string name="bush_question">Bush did 9/11</string>
+    <string name="president_question">Donald Trump is a good president</string>
+</resources>
